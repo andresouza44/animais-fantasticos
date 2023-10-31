@@ -240,14 +240,14 @@ body, h1, h2, ul, li, p, dd, dt, dl {
     }
 
     .js .js-accordion dt::after{
-      content: '⤵';
+      content: '⬎';
       margin-left: 10px;
       
 
     }
 
  .js-accordion dt.ativo::after{
-      content: '⤴';
+      content: '⬏';
       
 
     }
